@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ch04Ex1MovieList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cdf98189a311813b5f9518d105a2b88b57361e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+875ad2bfebf26e14714ab48a780b0ded81a11505")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ch04Ex1MovieList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ch04Ex1MovieList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
