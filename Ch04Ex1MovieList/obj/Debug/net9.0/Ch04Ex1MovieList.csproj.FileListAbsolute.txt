@@ -1,0 +1,8 @@
+/Volumes/TriloksSSD/EnterpriseDevelopmentLabs/Ch04Ex1MovieList/Ch04Ex1MovieList/obj/Debug/net9.0/Ch04Ex1MovieList.csproj.AssemblyReference.cache
+/Volumes/TriloksSSD/EnterpriseDevelopmentLabs/Ch04Ex1MovieList/Ch04Ex1MovieList/obj/Debug/net9.0/Ch04Ex1MovieList.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TriloksSSD/EnterpriseDevelopmentLabs/Ch04Ex1MovieList/Ch04Ex1MovieList/obj/Debug/net9.0/Ch04Ex1MovieList.AssemblyInfoInputs.cache
+/Volumes/TriloksSSD/EnterpriseDevelopmentLabs/Ch04Ex1MovieList/Ch04Ex1MovieList/obj/Debug/net9.0/Ch04Ex1MovieList.AssemblyInfo.cs
+/Volumes/TriloksSSD/EnterpriseDevelopmentLabs/Ch04Ex1MovieList/Ch04Ex1MovieList/obj/Debug/net9.0/Ch04Ex1MovieList.csproj.CoreCompileInputs.cache
+/Volumes/TriloksSSD/EnterpriseDevelopmentLabs/Ch04Ex1MovieList/Ch04Ex1MovieList/obj/Debug/net9.0/Ch04Ex1MovieList.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/TriloksSSD/EnterpriseDevelopmentLabs/Ch04Ex1MovieList/Ch04Ex1MovieList/obj/Debug/net9.0/Ch04Ex1MovieList.RazorAssemblyInfo.cache
+/Volumes/TriloksSSD/EnterpriseDevelopmentLabs/Ch04Ex1MovieList/Ch04Ex1MovieList/obj/Debug/net9.0/Ch04Ex1MovieList.RazorAssemblyInfo.cs
